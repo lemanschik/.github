@@ -1,2 +1,3 @@
-# .github
-Everything related to github https://github.lemanschik.com
+# .github https://github.lemanschik.com
+
+See: [Frank Lemanschiks github profile page](/profile)
